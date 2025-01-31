@@ -1,0 +1,9 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o grade grade.c
+auist@TF075:~/Documents/r2024115031$ ./grade
+Enter marks:75
+Grade C 
+auist@TF075:~/Documents/r2024115031$ gcc -o grade grade.c
+auist@TF075:~/Documents/r2024115031$ ./grade
+Enter marks:39
+Grade F 
+
