@@ -1,0 +1,9 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o odd odd.c
+auist@TF075:~/Documents/r2024115031$ ./odd
+Enter any integer:4
+4 is even. 
+auist@TF075:~/Documents/r2024115031$ gcc -o odd odd.c
+auist@TF075:~/Documents/r2024115031$ ./odd
+Enter any integer:5
+5 is odd. 
+
