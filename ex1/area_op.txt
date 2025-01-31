@@ -1,0 +1,3 @@
+uist@TF075:~/Documents/r2024115031/exp2$ gcc -o area area.c
+auist@TF075:~/Documents/r2024115031/exp2$ ./area
+Area of circle is: 113.040001 
