@@ -1,0 +1,12 @@
+auist@TF075:~/Documents/r2024115031/exp2$ gcc -o div5 div5.c
+auist@TF075:~/Documents/r2024115031/exp2$ ./div5
+Enter num1:15
+Enter num2:20
+sum= 35 
+The number is divisible by 5
+auist@TF075:~/Documents/r2024115031/exp2$ gcc -o div5 div5.c
+auist@TF075:~/Documents/r2024115031/exp2$ ./div5
+Enter num1:11
+Enter num2:12
+sum= 23 
+the number is not divisible by 5
