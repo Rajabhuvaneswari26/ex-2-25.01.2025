@@ -1,0 +1,9 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o alpha alpha.c
+auist@TF075:~/Documents/r2024115031$ ./alpha
+Enter a character:a
+a is an alphabet.
+auist@TF075:~/Documents/r2024115031$ gcc -o alpha alpha.c
+auist@TF075:~/Documents/r2024115031$ ./alpha
+Enter a character:@
+@ is a special character.
+
