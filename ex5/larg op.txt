@@ -1,0 +1,5 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o larg larg.c
+auist@TF075:~/Documents/r2024115031$ ./larg
+Enter three numbers:35 99 107
+The largest number is 107. 
+
