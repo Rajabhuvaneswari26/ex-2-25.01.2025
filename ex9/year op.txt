@@ -1,0 +1,9 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o year year.c
+auist@TF075:~/Documents/r2024115031$ ./year
+Enter the year:1970
+1970 is not a leap year.
+auist@TF075:~/Documents/r2024115031$ gcc -o year year.c
+auist@TF075:~/Documents/r2024115031$ ./year
+Enter the year:2024
+2024 is a leap year.
+
