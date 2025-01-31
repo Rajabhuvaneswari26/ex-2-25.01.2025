@@ -1,0 +1,9 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o int int.c
+auist@TF075:~/Documents/r2024115031$ ./int
+Enter num:3
+The number is positiveauist@TF075:~/Documents/r2024115031$ gcc -o int int.c
+auist@TF075:~/Documents/r2024115031$ ./int
+Enter num:-9
+The number is negativeauist@TF075:~/Documents/r2024115031$ 
+
+
