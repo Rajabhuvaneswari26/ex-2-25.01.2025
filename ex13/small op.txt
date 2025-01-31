@@ -1,0 +1,6 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o small small.c
+auist@TF075:~/Documents/r2024115031$ ./small
+Enter three numbers: 2 2 4
+Largest number is: 4
+Smallest number is: 2
+
