@@ -1,0 +1,9 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o tri tri.c
+auist@TF075:~/Documents/r2024115031$ ./tri
+Enter three sides:4 5 9
+Triangle is scalene. 
+auist@TF075:~/Documents/r2024115031$ gcc -o tri tri.c
+auist@TF075:~/Documents/r2024115031$ ./tri
+Enter three sides:87 76 76
+Triangle is isosceles. 
+
