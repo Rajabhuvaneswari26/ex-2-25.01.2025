@@ -1,0 +1,5 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o cel cel.c
+auist@TF075:~/Documents/r2024115031$ ./cel
+Enter temperature in celsius:34
+Temperature in fahrenheit is: 93 
+
