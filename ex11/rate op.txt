@@ -1,0 +1,7 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o rate rate.c
+auist@TF075:~/Documents/r2024115031$ ./rate
+Enter principal amount:2400
+Enter rate:12
+Enter time in years:3
+Simple interest is: 86400.000000 
+
