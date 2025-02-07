@@ -1,0 +1,5 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o pri pri.c
+auist@TF075:~/Documents/r2024115031$ ./pri
+Enter a number:6
+6 is not a prime number. 
+
