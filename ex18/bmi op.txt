@@ -1,0 +1,6 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o bmi bmi.c
+auist@TF075:~/Documents/r2024115031$ ./bmi
+enter the height:143
+enter th weight:30
+Obese
+
