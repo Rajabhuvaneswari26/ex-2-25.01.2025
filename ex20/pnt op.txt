@@ -1,0 +1,6 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o pnt pnt.c
+auist@TF075:~/Documents/r2024115031$ ./pnt
+Enter two numbers:4 5
+The point is in first quadrant.auist@TF075:~/Documents/r2024115031$ 
+
+
