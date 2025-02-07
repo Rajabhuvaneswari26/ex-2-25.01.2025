@@ -1,0 +1,7 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o dis dis.c
+auist@TF075:~/Documents/r2024115031$ ./dis
+Enter the total price of the purchase: 4000
+Original Price: 4000.00
+Discount: 20.00%
+Final Price after Discount: 3200.00
+
