@@ -1,0 +1,5 @@
+auist@TF075:~/Documents/r2024115031$ gcc -o sqr sqr.c
+auist@TF075:~/Documents/r2024115031$ ./sqr
+Enter a number: 64
+64 is a perfect square.
+
